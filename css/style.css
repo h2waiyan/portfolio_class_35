@@ -1,0 +1,91 @@
+body {
+  background-color: #c0c8f0;
+}
+
+h1 {
+  color: red;
+  background-color: aqua;
+}
+
+p {
+  width: 200px;
+  background-color: red;
+  display: inline-block;
+}
+
+span {
+  width: 200px;
+  background-color: blue;
+  display: block;
+}
+
+hr {
+  border-style: dotted solid;
+  height: 50px;
+}
+
+.mydiv {
+  height: 1024px;
+  background-color: red;
+}
+
+.fire {
+  border: 1px solid red;
+  width: 250px;
+  height: 150px;
+  border-style: double;
+  border-radius: 15;
+  border-color: red;
+  background-color: bisque;
+
+  margin-top: 100px;
+
+  padding-left: 100px;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  margin-left: 10px;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 10px solid black;
+}
+
+.one {
+  background-color: red;
+  display: none;
+}
+
+.two {
+  background-color: green;
+}
+
+.three {
+  background-color: blue;
+}
+
+.four {
+  background-color: blueviolet;
+}
+
+.custom-size {
+  height: 200px;
+}
+
+.circular {
+  border-radius: 50%;
+}
+
+.parachute {
+  border: white solid 10px;
+}
+
+.dreams {
+  /* border-radius: 80%; */
+  border: red solid 10px;
+}
+
+div {
+  display: inline;
+}
